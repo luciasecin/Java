@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LargestPrime",
+            "request": "launch",
+            "mainClass": "LargestPrime",
+            "projectName": "Section 5 - Control Flow Statements_77ce61a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlourPacker",
+            "request": "launch",
+            "mainClass": "FlourPacker",
+            "projectName": "Section 5 - Control Flow Statements_77ce61a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberToWords",
+            "request": "launch",
+            "mainClass": "NumberToWords",
+            "projectName": "Section 5 - Control Flow Statements_77ce61a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerfectNumber",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactorPrinter",
+            "request": "launch",
+            "mainClass": "FactorPrinter",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreatestCommonDivisor",
+            "request": "launch",
+            "mainClass": "GreatestCommonDivisor",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastDigitChecker",
+            "request": "launch",
+            "mainClass": "LastDigitChecker",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch SharedDigit",
+            "request": "launch",
+            "mainClass": "SharedDigit",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstLastDigitSum",
+            "request": "launch",
+            "mainClass": "FirstLastDigitSum",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DigitSumChallenge",
+            "request": "launch",
+            "mainClass": "DigitSumChallenge",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberInWord",
+            "request": "launch",
+            "mainClass": "NumberInWord",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfDaysInMonth",
+            "request": "launch",
+            "mainClass": "NumberOfDaysInMonth",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberPalindrome",
+            "request": "launch",
+            "mainClass": "NumberPalindrome",
+            "projectName": "Section 5_d2c50c88"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOddRange",
+            "request": "launch",
+            "mainClass": "SumOddRange",
+            "projectName": "Section 5_d2c50c88"
+        }
+    ]
+}
